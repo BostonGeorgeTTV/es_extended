@@ -34,3 +34,5 @@ ESX-legacy - ESX framework for FiveM
 ---
 
 Powered by [Oxygenserv](https://www.oxygenserv.com/en/)
+
+Edited by BostonGeorge#6073
